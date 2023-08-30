@@ -21,6 +21,7 @@ Welcome to the repository for the material of the course Introduction of Machine
 
 
 **Lab plans**
+
 We alternate sessions of guided lab activities and assigned projects:
 from October 3rd until January 23rd 2024 
 

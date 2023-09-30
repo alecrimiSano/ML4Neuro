@@ -1,0 +1,3 @@
+FOLDER	TYPE	anat	dwi	fMRI	ACQ-time	BACKUP
+fcs-acm6	ses-control	1	1	0	2010-11	0
+fcs-06amc2	ses-control-2	1	1	0	2011-02	0

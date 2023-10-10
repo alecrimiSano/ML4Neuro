@@ -4,6 +4,8 @@ Welcome to the repository for the material of the course Introduction of Machine
 The course is managed by Dr. A. Crimi, Dr. C. Koba, Dr. A. Onicas, and J. Falco-Roget
 You can find more contact information on https://bam.sano.science/
 
+The course alternate 1 week Lectures/Laboratories and 1 week Projects
+
 **Syllabus:**
 
 **Lectures**
@@ -39,7 +41,7 @@ from October 3rd until January 23rd 2024
 
 6. LSD vs non-LSD group comparison, free assignment
 
-**Projects**
+**Projects** 
 0. Proposed by the students
 
 Crimi's project 
@@ -52,3 +54,13 @@ using the OpenBCI at our lab https://openbci.com/
 2.  Structure-function coupling in stroke patients
 Inspired by the healthy human connectome project (data and code available)
 https://www.sciencedirect.com/science/article/pii/S1053811920310946
+
+
+Joan's project
+3. Longitudinal evolution of resting-state effective connectivity in brain tumor or stroke
+
+4. Super high resolution subcortical structural connectivity from and to the basal ganglia networks
+
+5. Artificial neural networks and decision making in cognitive tasks
+
+6. Some generative artificial intelligence with diffusion models and/or GANS for segmentation

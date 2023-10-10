@@ -1,6 +1,8 @@
 # ML4Neuro
 
 Welcome to the repository for the material of the course Introduction of Machine learning for Neuroimaging
+The course is managed by Dr. A. Crimi, Dr. C. Koba, Dr. A. Onicas, and J. Falco-Roget
+You can find more contact information on https://bam.sano.science/
 
 **Syllabus:**
 
@@ -36,3 +38,17 @@ from October 3rd until January 23rd 2024
 5. Effective connectivity with Granger Causality
 
 6. LSD vs non-LSD group comparison, free assignment
+
+**Projects**
+0. Proposed by the students
+
+Crimi's project 
+
+1. Natural scene reconstruction from EEG signals using generative latent diffusion
+Inspired by fMRI paper (data and code available)
+https://www.nature.com/articles/s41598-023-42891-8
+using the OpenBCI at our lab https://openbci.com/
+
+2.  Structure-function coupling in stroke patients
+Inspired by the healthy human connectome project (data and code available)
+https://www.sciencedirect.com/science/article/pii/S1053811920310946

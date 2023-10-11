@@ -38,7 +38,8 @@ Other papers distributed during the course
 7. BCI  & review (date: )
 
 
-**Lab plans**
+**Lab plans**  
+For Crimi's group: room 4.28 building D17
 
 We alternate sessions of guided lab activities and assigned projects:
 from October 3rd until January 23rd 2024 

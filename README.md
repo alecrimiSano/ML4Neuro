@@ -24,22 +24,20 @@ Undestanding of machine learning and deep learning concept
 Sporns, Olaf. Networks of the Brain. MIT press, 2010. 
 Other papers distributed during the course
 
-**Syllabus:**
-
 **Lectures**
-1. Introduction to neuroimaging data (date: )
+1. Introduction to neuroimaging data (date: 3.10.2023)
 
-2. Structural connectivity (date: )
+2. Structural connectivity (date: 17.10.2023)
    
-3. Functional connectivity (date: )
+3. Functional connectivity (date: 31.10.2023)
 
-4. EEG and wearables (date: )
+4. EEG and wearables (date: 14.11.2023)
 
-5. Graph connectivity (date: )
+5. Graph connectivity (date: 28.11.2023 )
 
-6. Causality and effective connectivity (date: )
+6. Causality and effective connectivity (date: 12.12.2023)
 
-7. BCI  & review (date: )
+7. BCI  & review (date: 9.1.2024)
 
 
 **Lab plans**  

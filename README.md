@@ -1,6 +1,8 @@
-# ML4Neuro  Machine Learning applied to Neuroimaging and Neuroscience
+# ML4Neuro:  Machine Learning applied to Neuroimaging and Neuroscience
 AGH course - 2023-2024, Course code WIIDSS.IIi2PJO.61e0295db85cc.22
+
 Second-cycle (engineer) programme 
+
 3 ECTS
 ![alt text](https://github.com/alecrimiSano/ML4Neuro/blob/main/brain.jpg)
 

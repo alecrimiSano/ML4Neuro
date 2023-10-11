@@ -1,10 +1,22 @@
 # ML4Neuro
 
 Welcome to the repository for the material of the course Introduction of Machine learning for Neuroimaging
-The course is managed by Dr. A. Crimi, Dr. C. Koba, Dr. A. Onicas, and J. Falco-Roget
+The course is managed by Prof. A. Crimi, Dr. C. Koba, Dr. A. Onicas, and J. Falco-Roget
 You can find more contact information on https://bam.sano.science/
 
+The goal of the course is to get familiar with neuroimaging data, and use machine learning to detect biomarkers for diseases.
+
 The course alternate 1 week Lectures/Laboratories and 1 week Projects
+There is no final exam. The grade is given by 50% on the handsout collected from the lab activities 2 weeks later, and final group project.
+Each group project should be composed by 3-5 people. Multiple groups can choose the same project.
+
+**Pre-requisites:**
+Knowledge of Python, and basic Unix based system
+Undestanding of machine learning and deep learning concept
+
+**Learning material:**
+Knowledge of Python, and basic Unix based system
+Undestanding of machine learning and deep learning concept
 
 **Syllabus:**
 
@@ -56,7 +68,8 @@ Inspired by the healthy human connectome project (data and code available)
 https://www.sciencedirect.com/science/article/pii/S1053811920310946
 
 
-Joan's project
+Falco-Roget's project
+
 3. Longitudinal evolution of resting-state effective connectivity in brain tumor or stroke
 
 4. Super high resolution subcortical structural connectivity from and to the basal ganglia networks

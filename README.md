@@ -17,14 +17,16 @@ There is no final exam. The grade is given by 50% on the handsout collected from
 Each group project should be composed by 3-5 people. Multiple groups can choose the same project.
 
 **Pre-requisites:**
-Knowledge of Python, and basic Unix based system
+Knowledge of Python, and basic Unix based system,
 Undestanding of machine learning and deep learning concept
+
+No knowledge of anatomy or physiology is required, but the willingness to learn basic concepts is expected.
 
 **Learning material:**
 Sporns, Olaf. Networks of the Brain. MIT press, 2010. 
 Other papers distributed during the course
 
-**Lectures**
+**Lectures:**
 1. Introduction to neuroimaging data (date: 3.10.2023)
 
 2. Structural connectivity (date: 17.10.2023)

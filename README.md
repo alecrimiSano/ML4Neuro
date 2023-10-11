@@ -17,8 +17,8 @@ Knowledge of Python, and basic Unix based system
 Undestanding of machine learning and deep learning concept
 
 **Learning material:**
-Knowledge of Python, and basic Unix based system
-Undestanding of machine learning and deep learning concept
+Sporns, Olaf. Networks of the Brain. MIT press, 2010. 
+Other papers distributed during the course
 
 **Syllabus:**
 

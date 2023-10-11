@@ -57,6 +57,7 @@ from October 3rd until January 23rd 2024
 6. LSD vs non-LSD group comparison, free assignment
 
 **Projects** 
+
 0. Proposed by the students
 
 Crimi's project 

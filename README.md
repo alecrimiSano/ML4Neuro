@@ -75,13 +75,18 @@ using the OpenBCI at our lab https://openbci.com/
 Inspired by the healthy human connectome project (data and code available)
 https://www.sciencedirect.com/science/article/pii/S1053811920310946
 
+3. Complex networks projects
+You will be provided with final 3Dgraph, to do either graph convolutional networks or more complex networks theorertical projects
+As https://www.sciencedirect.com/science/article/pii/S1053811921005644
+https://www.biorxiv.org/content/10.1101/2022.10.04.510701v1
+The complex netwoks ideas can be discussed in person
 
-Falco-Roget's project
+Falco-Roget's project (to be discussed with him)
 
-3. Longitudinal evolution of resting-state effective connectivity in brain tumor or stroke
+4. Longitudinal evolution of resting-state effective connectivity in brain tumor or stroke
 
-4. Super high resolution subcortical structural connectivity from and to the basal ganglia networks
+5. Super high resolution subcortical structural connectivity from and to the basal ganglia networks
 
-5. Artificial neural networks and decision making in cognitive tasks
+6. Artificial neural networks and decision making in cognitive tasks
 
-6. Some generative artificial intelligence with diffusion models and/or GANS for segmentation
+7. Some generative artificial intelligence with diffusion models and/or GANS for segmentation.

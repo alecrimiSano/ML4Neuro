@@ -7,7 +7,7 @@ Second-cycle (engineer) programme
 ![alt text](https://github.com/alecrimiSano/ML4Neuro/blob/main/brain.jpg)
 
 Welcome to the repository for the material of the course Introduction of Machine learning for Neuroimaging
-The course is managed by **Prof. Dr. A. Crimi, Dr. C. Koba, Dr. A. Onicas, and J. Falco-Roget**. 
+The course is managed by **Prof. A. Crimi, Dr. C. Koba, Dr. A. Onicas, and J. Falco-Roget**. 
 You can find more contact information on https://bam.sano.science/
 
 The goal of the course is to get familiar with neuroimaging data, and use machine learning to detect biomarkers for diseases.

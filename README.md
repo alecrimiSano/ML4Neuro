@@ -83,13 +83,3 @@ You will be provided with final 3Dgraph, to do either graph convolutional networ
 As https://www.sciencedirect.com/science/article/pii/S1053811921005644
 https://www.biorxiv.org/content/10.1101/2022.10.04.510701v1
 The complex netwoks ideas can be discussed in person
-
-Falco-Roget's project (to be discussed with him)
-
-4. Longitudinal evolution of resting-state effective connectivity in brain tumor or stroke
-
-5. Super high resolution subcortical structural connectivity from and to the basal ganglia networks
-
-6. Artificial neural networks and decision making in cognitive tasks
-
-7. Some generative artificial intelligence with diffusion models and/or GANS for segmentation.

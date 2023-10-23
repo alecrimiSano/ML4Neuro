@@ -11,9 +11,4 @@ As of now (2022-04-26) all the sessions include the following:
 - single-shell HARDI diffusion-weighted MRI with 64 directions(dwi, acq-AP or acq-LR)
 
 Useful information:
-- Take into account the several acquisition directions when preprocessing the data; especially if using eddy or eddy_cuda from the FSL software.
-- Folders from the original (raw-DICOM) database are MPRAGE + dti_63_dir_2mm_iso_1of2. Also, dti_63_dir_2mm_iso_1of2 are exactly the same (including the date) therefore don't need to be considered.
-- When converting to nifti (with dicom2niix) the folder FCS40 which was considered a log error in metadata, contains t1 and dwi. Nonehtless, it doesn't seem prudent to add it anywhere, since the date corresponds to the follow-up-2 session (which already exists).
-- For more problems related to the DICOM to NIFTI conversion please relate to the Dicom2Nifti_Logs.txt file.
-- The script used for filtering the subjects and sessions is 'complete_dMRI_filtering.py'
-- Future updates may include anatomically registered mask of the stroke.
+- Diffusion data are too big (>100MB) to be upload on the repository. Maybe they are pushed if they are resized into smaller voxel sizes (e.g., 2.5 mm3). Please reach out to ask the data if you wish.

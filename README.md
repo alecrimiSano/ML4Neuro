@@ -54,7 +54,7 @@ from October 3rd until January 23rd 2024
 
 3. Classify functional connectome via oldschool machine learning tools
 
-4. Graph convolutional networks on functional connectome EEG
+4. Graph convolutional networks on functional connectome EEG and metrics
 
 5. Effective connectivity with Granger Causality
 

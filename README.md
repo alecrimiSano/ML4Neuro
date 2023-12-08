@@ -58,7 +58,7 @@ from October 3rd until January 23rd 2024
 
 5. Effective connectivity with Granger Causality
 
-6. LSD vs non-LSD group comparison, free assignment
+6. Generative adversarial networks in fMRI context
 
 Assignments are represented as report-like document in PDF (either from Word or TEX) with screenshot and few comments
 of what you obtained from the notebooks.

@@ -39,7 +39,7 @@ Other papers distributed during the course
 
 6. Causality and effective connectivity (date: 12.12.2023)
 
-7. BCI  & review (date: 9.1.2024)
+7. Generative AI for Brain Activity fMRI (date: 9.1.2024)
 
 
 **Lab plans**  

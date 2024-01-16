@@ -83,3 +83,6 @@ You will be provided with final 3Dgraph, to do either graph convolutional networ
 As https://www.sciencedirect.com/science/article/pii/S1053811921005644
 https://www.biorxiv.org/content/10.1101/2022.10.04.510701v1
 The complex netwoks ideas can be discussed in person
+
+The deadline for projects is by January 23rd!!!!! As the whole evaluation has to be done by the 27th!!!!
+
